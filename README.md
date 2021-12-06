@@ -3,7 +3,7 @@
 - 🔭 Atualmente estudo Javascript.
 - 🌱 Como também TypeScript.
 - 👯 Amo ser usuario linux.
-- 🤔 Cursando ADS.
+- 🤔 Cursando Coding.
 - 💬 React + Nodejs.
 - 😄 React native.
 - ⚡ Foco em ser Full Stack.
