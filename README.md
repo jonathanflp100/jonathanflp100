@@ -4,7 +4,7 @@
 - 🌱 Como também TypeScript.
 - 👯 Amo ser usuario linux.
 - 🤔 Cursando Jogos Digitais .
-- ⚡ Foco em ser Full Stack.
+- ⚡ Garotinho Games Studios.
 
 <div>
   <a href="https://github.com/jonathanflp100">
