@@ -1,8 +1,8 @@
 ### Olá me chamo Jonathan lima 👋
 
-- 🔭 Atualmente estudo Javascript.
-- 🌱 Como também TypeScript.
-- 👯 Amo ser usuario linux.
+- 🔭 Atualmente estudo Blender3D.
+- 🌱 Como também Unreal Engine 5.
+- 👯 Amo Jogar hehehehe.
 - 🤔 Cursando Jogos Digitais .
 - ⚡ Garotinho Games Studios.
 
